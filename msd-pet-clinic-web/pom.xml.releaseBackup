@@ -5,12 +5,12 @@
 	<parent>
 		<groupId>com.msd</groupId>
 		<artifactId>msd-pet-clinic</artifactId>
-		<version>0.0.1</version>
+		<version>0.0.1-SNAPSHOT</version>
 	</parent>
 
 	<groupId>com.msd</groupId>
 	<artifactId>msd-pet-clinic-web</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.1-SNAPSHOT</version>
 	<name>msd-pet-clinic-web</name>
 	<url>http://maven.apache.org</url>
 
@@ -28,7 +28,7 @@
 		<dependency>
 			<groupId>com.msd</groupId>
 			<artifactId>msd-pet-clinic-data</artifactId>
-			<version>0.0.1</version>
+			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 
 		<dependency>
